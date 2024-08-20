@@ -28,6 +28,12 @@
 <div style="display: inline_block">
   <a href="https://github.com/hahahonline" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
+
+### Pedro Vinicius:
+
+<div style="display: inline_block">
+  <a href="https://github.com/pedrodris" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
        
 ### Pedro Lucas Rodrigues Greco:
 
