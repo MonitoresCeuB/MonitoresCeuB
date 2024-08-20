@@ -15,12 +15,24 @@
 
 ## Contato dos monitores:
 
+### Bruna:
+
+<div style="display: inline_block">
+  <a href="https://github.com/Nunaa5" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
 ### Christian Viana de Souza:
 
 <div style="display: inline_block">
   <a href="https://github.com/AceEvann" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:christian.vs@sempreceub.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/christian-viana-de-souza-4aaa81236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+### Eliza:
+
+<div style="display: inline_block">
+  <a href="https://github.com/Elizafc" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ### Markus Viana:
