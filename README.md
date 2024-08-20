@@ -45,8 +45,6 @@
 
 <br/>
 
-<div>
-  
-  ![snake gif](https://github.com/monitoresceub/monitoresceub/blob/output/github-contribution-grid-snake.svg)
-  
+<div align="center">
+  <img alaing=center alt="totoro" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
